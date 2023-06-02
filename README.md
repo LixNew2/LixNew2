@@ -9,5 +9,5 @@ alt="gamersgeekdev" height="30" width="40" /></a>
 ## ⚡ Stats
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=LixNew2&theme=gruvbox&show_icons=true&count_private=true" alt="LixNew's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=LixNew2&theme=tokyonight&show_icons=true&count_private=true" alt="LixNew's Github stats">
 </p>
