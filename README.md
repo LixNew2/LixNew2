@@ -1,7 +1,7 @@
 ### Python is good ^^
 
 ## Contact me
-🕊️ Twitter : https://twitter.com/LixNew2
+🕊️ Twitter : https://twitter.com/LixNew2 |
 🎧 Discord : LixNew#9312
 
 ## ⚡ Stats
