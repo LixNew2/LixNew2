@@ -4,8 +4,7 @@
 <p align="left">
 	<a href="https://twitter.com/LixNew2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
 alt="gamersgeekdev" height="30" width="40" /></a>
-	<a href="LixNew#9312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7ykdCWQGE6" height="30" width="40" /></a>
-</p>
+🎧 Discord : LixNew#9312
 
 ## ⚡ Stats
 <p align="center">
