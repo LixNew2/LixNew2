@@ -1,4 +1,8 @@
-### Python is good ^^
+### Computer science and nothing else! 
+
+🌍 | Kollab : https://kollabsound.com
+🤝 | My services : http://bit.ly/3rOOcqW
+💻 | Developer : ```Python, C++, Java, GDscript GUI```
 
 ## Contact me
 🕊️ Twitter : https://twitter.com/LixNew2 |
