@@ -2,7 +2,7 @@
 
 🌍 | Kollab : https://kollabsound.com
 🤝 | My services : http://bit.ly/3rOOcqW
-💻 | Developer : ```Python, C++, Java, GDscript GUI```
+💻 | Developer : ```Python, C++, Java, GDscript GUI, JS, HTML, CSS```
 
 ## Contact me
 🕊️ | Twitter : https://twitter.com/LixNew2
