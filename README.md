@@ -1,7 +1,7 @@
 ### Computer science and nothing else! 
 
 🤝 | My services : http://bit.ly/3rOOcqW
-💻 | Developer : ```Python, C++, Java, GDscript GUI, JS, HTML, CSS```
+💻 | Developer : ```Python, C++, Java, GDscript, JS, HTML, CSS```
 
 ## Contact me
 🕊️ | Twitter : https://twitter.com/LixNew2
