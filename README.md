@@ -1,7 +1,7 @@
 ### Computer science and nothing else! 
 
 🤝 | My services : http://bit.ly/3rOOcqW
-💻 | Python developer 🐍
+💻 | Backend developer
 
 ## Contact me
 🕊️ | Twitter : https://twitter.com/LixNew2
