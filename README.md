@@ -1,6 +1,6 @@
 ### Computer science and nothing else! 
 
-🤝 | My services : http://bit.ly/3rOOcqW
+🤝 | My services : https://fr.fiverr.com/lixnew__
 💻 | Backend developer
 
 ## Contact me
