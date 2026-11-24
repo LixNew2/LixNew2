@@ -12,17 +12,10 @@ I'm always looking to improve my skills, explore new technologies and build mean
 - 🚀 **Main Technologies:** PHP, Laravel, Python
 - 📍 **Location:** Lyon, France
 - 🌐 **Portfolio:** [gaelbotton.dev](https://gaelbotton.dev)
-
----
-
-## 📫 Contact & Links
-
-- 🌐 **Portfolio:** [gaelbotton.dev](https://gaelbotton.dev)
-- 💻 **GitHub:** [LixNew2](https://github.com/LixNew2)
-- 🕊️ **Twitter / X:** [@LixNew2](https://twitter.com/LixNew2)
-- 🎧 **Discord:** LixNew#9312
 - 🤝 **Fiverr:** [My Services](https://fr.fiverr.com/lixnew__)
-
+- 🕊️ **Twitter / X:** [@LixNew2](https://twitter.com/LixNew2)
+- 🎧 **Discord:** lixnew
+- 
 ---
 
 ## 🛠️ Hard Skills
