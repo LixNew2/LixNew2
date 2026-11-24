@@ -15,7 +15,7 @@ I'm always looking to improve my skills, explore new technologies and build mean
 - 🤝 **Fiverr:** [My Services](https://fr.fiverr.com/lixnew__)
 - 🕊️ **Twitter / X:** [@LixNew2](https://twitter.com/LixNew2)
 - 🎧 **Discord:** lixnew
-- 
+  
 ---
 
 ## 🛠️ Hard Skills
