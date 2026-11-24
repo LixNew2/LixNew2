@@ -15,6 +15,16 @@ I'm always looking to improve my skills, explore new technologies and build mean
 
 ---
 
+## 📫 Contact & Links
+
+- 🌐 **Portfolio:** [gaelbotton.dev](https://gaelbotton.dev)
+- 💻 **GitHub:** [LixNew2](https://github.com/LixNew2)
+- 🕊️ **Twitter / X:** [@LixNew2](https://twitter.com/LixNew2)
+- 🎧 **Discord:** LixNew#9312
+- 🤝 **Fiverr:** [My Services](https://fr.fiverr.com/lixnew__)
+
+---
+
 ## 🛠️ Hard Skills
 
 ### Backend Development
@@ -64,25 +74,4 @@ Web application focused on audio transformation and music experiences.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LixNew2&theme=tokyonight&show_icons=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LixNew2&theme=tokyonight&layout=compact&langs_count=8" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LixNew2&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Contact & Links
-
-- 🌐 **Portfolio:** [gaelbotton.dev](https://gaelbotton.dev)
-- 💻 **GitHub:** [LixNew2](https://github.com/LixNew2)
-- 🕊️ **Twitter / X:** [@LixNew2](https://twitter.com/LixNew2)
-- 🎧 **Discord:** LixNew#9312
-- 🤝 **Fiverr:** [My Services](https://fr.fiverr.com/lixnew__)
-
----
-
-<p align="center">
-  <i>Always learning. Always building. Always improving.</i>
 </p>
